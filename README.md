@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/bwaldvogel/liblinear-java.png?branch=master)](https://travis-ci.org/bwaldvogel/liblinear-java)
 
 This is the Java version of LIBLINEAR.
+(Thanks to @bwaldvogel for the Java Port, this is a fork of https://github.com/bwaldvogel/liblinear-java)
 
 The project site of the original `C++` version is located at
        http://www.csie.ntu.edu.tw/~cjlin/liblinear/

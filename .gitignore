@@ -5,5 +5,20 @@
 !.gitignore
 !.travis.yml
 
+# Eclipse
+.settings
+.classpath
+.project
+.manager
+.scala_dependencies
+
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea
+
+# Build junk
+target
 build/
 data/
